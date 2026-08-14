@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/essays/spear-and-server/</loc>
+    <lastmod>2026-08-11T20:41:42-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/switching-sides/</loc>
+    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/elizabeth-safiye/</loc>
+    <lastmod>2026-08-13T20:38:12-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/living-not-for-weak/</loc>
+    <lastmod>2026-08-13T20:51:54-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/spies-moses-stalin/</loc>
+    <lastmod>2026-08-13T20:57:35-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/caesar-turing-satoshi/</loc>
+    <lastmod>2026-08-13T21:04:45-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/order-beer-in-prague/</loc>
+    <lastmod>2026-08-13T21:18:29-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/</loc>
+    <lastmod>2026-08-13T21:18:29-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-08-13T21:18:29-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>

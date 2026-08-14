@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ .Site.Title }} — {{ .Site.Params.tagline }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
+
+  <meta name="description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+
+  <link rel="canonical" href="{{ .Permalink }}">
+
+  <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  <meta property="og:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,500&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=Special+Elite&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="wrap">
+      <a class="site-title" href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
+      <p class="site-tagline">{{ .Site.Params.tagline }}</p>
+      <nav class="site-nav" style="text-align: center;">
+        <div style="margin-bottom: 14px;"><a href="{{ "/essays/" | relURL }}">Essays and Posts</a></div>
+        <div>{{ if .Site.Params.kofiURL }}<a href="{{ .Site.Params.kofiURL }}" class="kofi-link" style="border-bottom: none; display: inline-flex; align-items: center;"><img src="{{ "images/tip-jar-icon-stamp.svg" | relURL }}" alt="" width="120" height="120" style="vertical-align: middle; margin-right: 4px;"><span style="border-bottom: 1px solid var(--stamp);">Support on Ko-fi →</span></a>{{ end }}</div>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>© {{ now.Year }} {{ .Site.Params.author }}.{{ if .Site.Params.kofiURL }} Support the work on <a href="{{ .Site.Params.kofiURL }}">Ko-fi</a>.{{ end }}{{ if .Site.Params.contactEmail }} <a href="mailto:{{ .Site.Params.contactEmail }}">Contact</a>.{{ end }}</p>
+    </div>
+  </footer>
+
+</body>
+</html>

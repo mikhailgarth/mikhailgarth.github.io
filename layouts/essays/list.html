@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+<section class="dossier-list">
+  {{ range .Pages.ByWeight }}
+  <article class="dossier-row">
+    <div class="dossier-meta">
+      {{ if .Params.caseno }}<span class="caseno">No. {{ .Params.caseno }}</span>{{ end }}
+      <time>{{ .Date.Format "January 2, 2006" }}</time>
+    </div>
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <p class="dossier-excerpt">{{ .Summary | plainify | truncate 200 }}</p>
+  </article>
+  {{ end }}
+</section>
+
+{{ end }}
