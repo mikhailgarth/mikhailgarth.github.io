@@ -2,7 +2,7 @@
 title: "Living Is Not For The Weak"
 date: 2026-08-13T20:51:54-04:00
 draft: false
-description: ""      # 150-160 char meta description for Google — write this deliberately, don't leave it blank
+description: "Super heroes, Roman Emperors and blog writers all have to get the values they live by from somewhere - Oliver Queen (The Arrow), Marcus Aurelius and Mark Manson tell us where."      # 150-160 char meta description for Google — write this deliberately, don't leave it blank
 caseno: ""             # optional dossier-style file number, e.g. "07" — leave blank to hide
 weight: 940             # controls display order: lower numbers appear first. Space essays out (10, 20, 30...) so you can slot new ones in between later without renumbering everything.
 ---

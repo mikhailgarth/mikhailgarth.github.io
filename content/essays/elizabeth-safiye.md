@@ -2,7 +2,7 @@
 title: "The Statute, the Harem and the Regent Mother"
 date: 2026-08-13T20:38:12-04:00
 draft: false
-description: "Queen Elizabeth I of England and Sultana Safiye of the Ottoman Empire were women in power in an age of men."      # 150-160 char meta description for Google — write this deliberately, don't leave it blank
+description: "Queen Elizabeth I of England, Sultana Safiye of the Ottoman Empire and Catherine de Medici were women in power in an age of men - this essay looks at how they acquired it."      # 150-160 char meta description for Google — write this deliberately, don't leave it blank
 caseno: ""             # optional dossier-style file number, e.g. "07" — leave blank to hide
 weight: 930             # controls display order: lower numbers appear first. Space essays out (10, 20, 30...) so you can slot new ones in between later without renumbering everything.
 ---

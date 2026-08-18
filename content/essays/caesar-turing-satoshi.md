@@ -2,7 +2,7 @@
 title: "Caesar, Turing and Satoshi"
 date: 2026-08-13T21:04:45-04:00
 draft: false
-description: ""      # 150-160 char meta description for Google — write this deliberately, don't leave it blank
+description: "A brief overview of symmetric and asymmetric cryptography as practised by myself, Caesar, Turing and Satoshi."      # 150-160 char meta description for Google — write this deliberately, don't leave it blank
 caseno: ""             # optional dossier-style file number, e.g. "07" — leave blank to hide
 weight: 960             # controls display order: lower numbers appear first. Space essays out (10, 20, 30...) so you can slot new ones in between later without renumbering everything.
 ---

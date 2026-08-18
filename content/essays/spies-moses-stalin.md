@@ -2,7 +2,7 @@
 title: "Spies, States and Secrets: Intelligence from Moses to Stalin"
 date: 2026-08-13T20:57:35-04:00
 draft: false
-description: ""      # 150-160 char meta description for Google — write this deliberately, don't leave it blank
+description: "How different kinds of intelligence such as human, signals, geographical, imaging, cyber intelligence developed over time and shaped history."      # 150-160 char meta description for Google — write this deliberately, don't leave it blank
 caseno: ""             # optional dossier-style file number, e.g. "07" — leave blank to hide
 weight: 950             # controls display order: lower numbers appear first. Space essays out (10, 20, 30...) so you can slot new ones in between later without renumbering everything.
 ---
@@ -57,7 +57,7 @@ He oversaw everything and everybody with his land, but knew little about what la
 
 His main contact with outside was with Elizabethan England after a young English merchant adventurer Richard Chancellor landed by accident at what is now Archangel on the Arctic coast of Russia after trying to find the North-East Passage to China.  Ivan’s internal surveillance was so effective that he was soon warned of the arrival of this unexpected foreigner in a remote, sparsely populated region.  He was received with great hospitality by Ivan in Moscow and there followed a number of visits and exchanges between Russia and England.  Ivan trusted the English emissaries to the point where he gave them missions.  He sent Chancellor’s successor, Anthony Jenkinson, on a diplomatic mission to Abdullah-Khan, the ruler of Shirivan in the Caucasus.  Jenkinson returned with silks and jewels and letters of friendship.   Ivan had no diplomats or spies of his own.
 
-Ivan was a role model for Stalin who, if anything, regarded him a bit of a wimp.  He surpassed Ivan in the Great Terror of 1936-38 when he killed or imprisoned millions of mostly imaginary traitors.  He made Hitler’s Operation Barbarossa invasion in 1941 much easier by wiping out so many officers in the Red Army and weakening his armed forces.
+Ivan was a role model for Stalin who, if anything, regarded him as a bit of a wimp.  He surpassed Ivan in the Great Terror of 1936-38 when he killed or imprisoned millions of mostly imaginary traitors.  He made Hitler’s Operation Barbarossa invasion in 1941 much easier by wiping out so many officers in the Red Army and weakening his armed forces.
 
 Vigilance against internal threats has the most potential to be pernicious and harmful to a state.  While it is necessary to guard against subversion and anarchy, it can be a tool of megalomaniac rulers and weaken and demoralize the population and, therefore, the state itself.  
 Conflict is part of the human condition so intelligence-gathering is always with us, but of all the different types of intelligence activities, internal surveillance, especially with its exploitation of human jealousy and vindictiveness in HUMINT, must have caused the most human misery.
