@@ -25,7 +25,7 @@ But they also moved west across the North Atlantic, following much the same rout
 
 Exploration was a family business for Erik the Red since his son, Leif Erikson, established a settlement in Newfoundland.  He called it Vinland.  There is archaeological evidence at L’Anse aux Meadows in Newfoundland.  Newfoundland would have been a far more attractive place to live compared with Greenland or even Iceland because of the abundance of resources such as land, furs and timber.
 
-The Norse did not last long though and probably only stayed a few decades.  There were only a few of them and it was unlikely larger numbers would come.  It turned out that discovery was relatively easy.  The difficult part was having the support and infrastructure in place to follow up and exploit the discovery.
+The Norse did not last long though and probably only stayed a few decades.  There were only a few of them and it was unlikely larger numbers would come.  It turned out that discovery was relatively easy.  The difficult part was having the support and infrastructure in place to follow up and exploit the discovery.  Being there first gives no advantage if you are not positioned to follow through.
 
 Newfoundland was simply much further away from Scandinavia, and the Norse did not have magnetic compasses, astrolabes or quadrants for navigation, which the Europeans did have around 500 years later to cross the ocean with reliable navigation.
 
