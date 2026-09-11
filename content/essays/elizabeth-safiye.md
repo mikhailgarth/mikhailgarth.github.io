@@ -63,7 +63,8 @@ And the Levant Company's commercial presence gave England a self-funding cover s
 
 The English embassy did not only engage in diplomacy and intelligence gathering; it also directly advocated for action.
 
-William Harborne, England's first ambassador to the Ottoman court, acted on Walsingham's instructions to try to push the Sultan toward attacking Spanish Mediterranean holdings — an attempt to pull Spanish attention away from the Atlantic ahead of the Armada. It did not work. 
+William Harborne, England's first ambassador to the Ottoman court, acted on Walsingham's instructions to try to push the Sultan toward attacking Spanish Mediterranean holdings — an attempt to pull Spanish attention away from the Atlantic ahead of the Armada. It did not work.
+ 
 England and the Ottomans had little cultural or religious affinity but the alignment of interest brought them together.
 
 It is tempting to close this on a note of triumph: two women, shut out of formal legitimacy by the men around them, built a channel of their own and helped tip a geopolitical struggle in their countries' favor.   There is some truth to this.
