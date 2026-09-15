@@ -1,6 +1,6 @@
 ---
 title: "How to order beer in Prague (if you are not Czech)"
-date: 2026-09-14T21:18:29-04:00
+date: 2026-09-14T21:01:29-04:00
 draft: false
 description: "The evolution of English from Caedmon to William the Conqueror, Chaucer, Shakespeare, the internet and a riverside bar by the Vltava river in Prague."      # 150-160 char meta description for Google — write this deliberately, don't leave it blank
 caseno: ""             # optional dossier-style file number, e.g. "07" — leave blank to hide
