@@ -32,7 +32,7 @@ Safiye's route to that position was through the harem, not through birth into a 
 
 The difference is that in England, female power was legally normalized by necessity (the 1554 Act) but remained a point of contention.  Knox was the loudest voice, not the only one.  However, in the Ottoman system, since the haseki sultan had no formal office of power, Knox would not have objected.  Female power flowing through the harem was part of the system.
 
-Cathere de’ Medici
+Catherine de’ Medici
 
 Catherine de' Medici in France was a different case: Salic law barred her from ever ruling in her own name, so she wielded enormous actual power for decades entirely through her sons, never through a title.  She was married to Henry II of France but her power did not begin until his death in 1559 from a jousting wound.  She was regent or the power behind the throne for three of her sons in succession:  Francis II (very briefly), Charles IX where she held real regency power since he was only ten years old at succession, and Henry III (1574-1589) where she remained the dominant political power despite him being an adult.
 
