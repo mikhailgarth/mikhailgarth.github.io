@@ -68,7 +68,8 @@ In Germany, the Weimar Republic imposed strict controls after WWI under the Trea
 
 In the Soviet Union, private firearm ownership was heavily restricted almost immediately after the 1917 Revolution, formalized through the 1920s.
 
-When they are first formulated, regulations are typically not presented as aimed at targeting a politically threatening group directly.  But before long, they can become the infrastructure for restriction.  From controlling behavior, they can often end up controlling access.  
+When they are first formulated, regulations are typically not presented as aimed at targeting a politically threatening group directly.  But before long, they can become the infrastructure for restriction.  From controlling behavior, they can often end up controlling access.
+  
 In the twentieth century, the common man no longer had military equality that might enforce some degree of liberty for them.  Confiscation worked against individuals.
 
 Kalashnikov
@@ -105,5 +106,6 @@ Encryption
 
 What keeps a person free from control in this age is not a weapon but the ability to not be tracked.  Encryption, anonymization, and simply living off the grid all cost money, skill, or effort that most people do not have.  Moreover, encryption may only be a partial answer to mass surveillance, a partial AK-47.  Encryption does stop states and corporation intercepting the content of messages.  However, it does nothing against traffic analysis and metadata collection.   It does not prevent endpoint compromise where messages can be read before or after encryption by malware, compromised backups or forensic tools.  It does nothing against legal compulsion where governments compel companies to hand over metadata and contact lists.  Neither does it stop governments from trying to mandate backdoors built into encrypted systems.
 
-In encryption, people have found a cheap equalizer against the twentieth century threat of content interception but they have not yet found a cheap answer to the twenty-first century threat of mass surveillance through metadata collection.   
+In encryption, people have found a cheap equalizer against the twentieth century threat of content interception but they have not yet found a cheap answer to the twenty-first century threat of mass surveillance through metadata collection.
+   
 The question this century has to answer is the same one every earlier one did, except that the technology has drastically changed: can an ordinary person defend themselves in the way a Roman freeholder could with a sword? 
