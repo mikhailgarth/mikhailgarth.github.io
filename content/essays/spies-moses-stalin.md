@@ -6,9 +6,13 @@ description: "How different kinds of intelligence such as human, signals, geogra
 caseno: ""             # optional dossier-style file number, e.g. "07" — leave blank to hide
 weight: 950             # controls display order: lower numbers appear first. Space essays out (10, 20, 30...) so you can slot new ones in between later without renumbering everything.
 ---
+What is an early example of spying in history?
+
 Spying is probably the world’s second oldest profession.
 
 In the Old Testament, Moses and Joshua sent spies into Canaan, the Promised Land. This did not go quite to plan for Moses as 10 out of his 12 agents had their own agenda and were against the idea of invading Canaan.  They had little faith and said it was too dangerous despite evidence that God was on their side.  He parted the Red Sea so they could escape from Egypt.  The other two agents reported that it was entirely possible.  This preparation for the invasion of Canaan ultimately paid off when Joshua successfully took it.  The majority recommendation was skewed by fear and did not properly reflect the facts on the ground.   Consensus is not the same as quality.
+
+What are the different types of intelligence gathering?
 
 Humans have got better at it with time.  There are now different forms of intelligence gathering.  In modern parlance, each can be regarded as a distinct ‘INT’ (intelligence) discipline with its own acronym.
 
@@ -22,13 +26,19 @@ GEOINT and IMINT, geospatial intelligence and imagery intelligence, relate to te
 
 CYBINT/CYBERINT is cyber intelligence from digital networks: hacking into systems, monitoring network traffic and understanding adversaries’ cyber capabilities.  It is a more advanced form of SIGINT.
 
+How is counterintelligence different from other types of intelligence?
+
 COUNTERINTELLIGENCE is a different mode of spying.  It is not collection of intelligence but applying strategies to protect your own secrets and assets.  Of all the disciplines, this is the one that can be most easily turned inward.  It becomes less about guarding your own secrets and assets and more about policing your people’s loyalty.  When that happens, as we shall see later in this essay, it can cause you more damage than any enemy.
+
+Why do states engage in intelligence gathering?
 
 States have had different motivations for spying.  The obvious one is military to do with preparing an invasion of a foreign land or defending against invasion as we saw with Moses and Joshua.  It is a tool to ensure that scarce military resources are used as effectively as possible through knowledge of the enemy, its intentions and its resources.
 
 We see early examples of military intelligence techniques in Caesar’s conduct of campaigns in Gaul and Britain.  He had no formal military intelligence staff but he deployed reconnaissance troops who each had very specific roles: procursatores conducted reconnaissance immediately ahead of Roman forces, exploratores were longer-range scouts and speculatores spied deep inside enemy territory.
 
 Like many ancient Chinese, Roman and Greek generals, Alexander the Great placed great faith in divination and reading bird and animal entrails, but he foreshadowed Napoleon in his understanding of logistics and shrewdly ensured his armies were well supplied by reconnaissance of roads, resources, terrain and climate of the lands he was invading. He was an early advocate of GEOINT.   In this way, he was able to cross lands where armies before had died of starvation and dehydration.  He dismissed Arimmas, Viceroy of Syria, for failing to assemble enough supplies for this armies.  Knowing the territory in advance not only told him whether the opportunity was good but also helped him sustain his campaigns.  Logistics is really a facet of geospatial intelligence.
+
+How did intelligence gathering develop in the Renaissance?
 
 In the Renaissance, when states and cities formed in Europe, such as France, the Italian city states, England after its civil wars and German states, with the accompanying rivalries and conflicts, the use of HUMINT, SIGINT and OSINT grew and mirrored the sophistication of the new political entities.  Intelligence covered more than the military.  It was also commercial and political.  As trade developed in Europe, commercial intelligence became an instrument of state.  As Venice well appreciated.
 
@@ -40,9 +50,13 @@ To this end, it was the first state to establish permanent diplomatic missions t
 
 For example, Sebastiano Giustiniani was Venetian ambassador to the young King Henry VIII of England. He played on his vanity and found out about England’s military campaigns in France.
 
+How did the Ottomans engage in intelligence gathering?
+
 Venice’s biggest rivals were the Ottomans.  The Venetians had a permanent mission in Constantinople soon after it fell to the Ottomans in 1453.  Other European powers followed in setting up embassies there in the next century.
 
 The Ottomans, on the other hand, considered the sultan to be superior to other monarchs and thought it beneath them to set up embassies in the capitals of inferior monarchs who should be their vassals.  In this way, they had far less knowledge of their adversaries than the Europeans did of them.  They did have spies in Europe but not so much the ability to interpret and use their information because they had no context or background.  Data without context is nearly useless.
+
+How important was intelligence to Elizabethan England?
 
 For Elizabethan England, intelligence was not so much a means to steal and protect commercial secrets as it was a matter of survival.  Intelligence was a shield against external threats. 
 
@@ -52,13 +66,19 @@ The Secretary of State, Sir Francis Walsingham, established a spy network throug
 
 The English secret service established great expertise in SIGINT.  A young cryptanalyst, Thomas Phelippes, cracked the cypher that Mary Stuart used to correspond with conspirators and provided the evidence to convict Mary of treason.
 
+How did Russia use intelligence gathering? 
+
 Ivan the Terrible of Russia ruled at the same time as Elizabeth.  He put little energy into military espionage, commercial secrets or finding out about the world outside Russia.  He was more concerned about perceived internal threats.  His intelligence was about surveillance of his nobles and brutally stamping out any signs of disobedience or discontent.  His state was based on terror.  His secret service dressed in black, rode black horses and carried a dog’s head to sniff out treason and a broom to sweep it away.  The mode of intelligence-gathering was HUMINT because it relied on snitches betraying suspected traitors.
 
 He oversaw everything and everybody with his land, but knew little about what lay beyond it.  Russia had no permanent overseas embassies.
 
 His main contact with outside was with Elizabethan England after a young English merchant adventurer Richard Chancellor landed by accident at what is now Archangel on the Arctic coast of Russia after trying to find the North-East Passage to China.  Ivan’s internal surveillance was so effective that he was soon warned of the arrival of this unexpected foreigner in a remote, sparsely populated region.  He was received with great hospitality by Ivan in Moscow and there followed a number of visits and exchanges between Russia and England.  Ivan trusted the English emissaries to the point where he gave them missions.  He sent Chancellor’s successor, Anthony Jenkinson, on a diplomatic mission to Abdullah-Khan, the ruler of Shirivan in the Caucasus.  Jenkinson returned with silks and jewels and letters of friendship.   Ivan had no diplomats or spies of his own.
 
+How did Stalin regard Ivan the Terrible?
+
 Ivan was a role model for Stalin who, if anything, regarded him a bit of a wimp.  He surpassed Ivan in the Great Terror of 1936-38 when he killed or imprisoned millions of mostly imaginary traitors.  He made Hitler’s Operation Barbarossa invasion in 1941 much easier by wiping out so many officers in the Red Army and weakening his armed forces.
+
+What is the potential drawback of counterintelligence gathering?
 
 Vigilance against internal threats, intelligence turned inward, as counter intelligence always risks becoming, has the most potential to be pernicious and harmful to a state.  While it is necessary to guard against subversion and anarchy, it can be a tool of megalomaniac rulers and weaken and demoralize the population and, therefore, the state itself.  Monitoring people for disloyalty can be tactically effective in the short term but catastrophically destructive in the long term.  It guts morale, trust and motivation.  It hollows out the strength and talent in a population.
 

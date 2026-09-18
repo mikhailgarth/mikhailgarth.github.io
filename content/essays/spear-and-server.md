@@ -6,18 +6,18 @@ description: "For most of human history, the balance of power between ordinary p
 caseno: ""             # optional dossier-style file number, e.g. "07" — leave blank to hide
 weight: 910             # controls display order: lower numbers appear first. Space essays out (10, 20, 30...) so you can slot new ones in between later without renumbering everything.
 ---
-Commoners and Elites - The Balance of Power
+How did the balance of power between commoners and elites shift throughout history?
 
 Throughout history, power has shifted between common people and elites based on who controls the era’s decisive tool of force.
 
 Sometimes common men have more power and society tends to be more open and democratic and sometimes power becomes concentrated in the hands of elites so society becomes more authoritarian.  The power pendulum has swung throughout the centuries as men went from carrying spears to carrying IPhones.
 
-Primeval Life
+How were humans organized in primeval life?
 
 In primeval life, men were roughly equal militarily.  There was no government or large organization of society.  A man with a spear could defend himself.  He could kill another man or a mammal without a king or warlord to command him.   
 Wandering bands of maybe fifty or so lived by hunting, fishing and gathering food.  All men were trained as hunters to kill large animals.  Since population density was so low, there was not much need for conflict as one faction could walk away from another without the need for violence. 
 
-The Rise of Agriculture
+How did the rise of agriculture change society?
 
 Even after the Stone Age, nomadic tribes were quite democratic because each man had the same military value.  If they had wealth in the form of cattle, goats or sheep, or they had land, they could afford to buy metal weapons and arm themselves.
 
@@ -26,11 +26,11 @@ However, as agriculture developed, men no longer had weapons meant for hunting l
 Farmers in the time of the Roman Republic or the ancient Greek city states retained some autonomy for a while because they could arm themselves.  Roman Republic citizen soldiers and Greek city-state hoplites with their own smallholdings outfitted themselves with metal weapons at their own expense.
 At Marathon in 490 BC, an Athenian army made up almost entirely of farmers who had bought their own armor beat back a professional Persian expeditionary force — proof, to later Greeks, that free men fighting for their own land could out-fight paid soldiers of an empire. Solon’s property-class reforms a century earlier gave men wealthy enough to arm themselves as hoplites a formal share of political power that poorer citizens did not have.
 
-Cincinnatus
+How was Cincinnatus remarkable as an early leader?
 
 In 458 BC, according to legend, the Roman Senate found Cincinnatus plowing his own four-acre farm, handed him absolute power as dictator to meet a military emergency, and watched him defeat the enemy in two weeks and hand that power straight back — the ideal of the citizen who arms and governs himself, and wants nothing more from the state than to be left alone on his own land.  His stepping down was an early example of good succession planning and resisting the temptation to over-centralize decision rights just because you can.  He had total leverage but chose to hand it back rather than consolidate it.  Both states and organizations tend to become brittle when they depend on the continued goodwill and competence of whoever holds the center, rather than resilient because capability is distributed.  We can see this right now in the United States, Russia and China.
 
-The Ascendency of the Elites
+How did elites gain ascendancy?
 
 The age of self-armed citizenry did not last too long.  They are only stable as long as the state does not have alternative sources of manpower.  Rome found one: it acquired slaves through conquest.  When the Roman Republic conquered new lands and acquired large numbers of slaves, power concentrated into the hands of landowners.   Slaves were not rich enough to buy their own weapons.  The Roman Republic changed into the more authoritarian Roman Empire because landowners exercised power top-down.  Taxes, conscription and economic burdens of war impoverished freeholders even further.
 
@@ -38,27 +38,27 @@ Greek hoplites were increasingly displaced on the battlefield by mercenaries and
 
 Elites could be home grown as in Rome and Macedon or they could come from tribes such as the Vandals, Alans, Burgundians, Visigoths, Ostrogoths, Slavs, Bulgars, Magyars and Norse Vikings.  These tribes conquered other peoples and settled territories.  Once again, the military equality of common men in these tribes gave way to power concentrated in the hands of elites who conquered first and then settled.  The elites could take away the weapons of common men who farmed or worked trades.  They could also control the manufacture and distribution of weaponry.  Whether the elites arose within the settled society or they came from outside, they disarmed the population.  Then a simple piece of iron multiplied the force they could bring to bear on their subjects.
 
-The Iron Stirrup in Europe
+What military advantage did the Iron Stirrup give?
 
 The introduction of the iron stirrup to Europe between 700 to 800 AD gave even more power to elites.  The iron stirrup allowed a rider to deliver a mounted lance-charge without being knocked off his own horse.  In this way, a small number of men in armor and trained in this kind of warfare could easily overcome the resistance of infantry or armed men on foot.  Common man could not afford horses and did not have the training to fight on horseback.  A local nobleman or warlord could dominate their surroundings with just a few well-outfitted and trained horsemen.  In addition, the geography of Europe with its mountains, rivers and forests made it easy to defend a small area against would-be conquerors.  In this way a patchwork of small territories existed in defiance of central authority such as a king.  This is the world of the legends of King Arthur or Game of Thrones.
 
-Consolidation of Power in Europe
+How did the European kingdoms form from so many smaller polities?
 
 The power of kingdoms such as France, England and Spain grew with the adoption of gunpowder.  A handful of armored men on horseback could not prevail against a volley of cannon.  Cannon made castle walls obsolete and local nobles and warlords unable to resist the expansion of the state.   Nobles and warlords did not have the resources to buy or cast cannon and cannonballs.  For the first time in 1494 French King Charles VIII used siege cannon in his invasion of Italy and reduced city walls to rubble.  Those with the resources to control and deploy heavy cannon expanded the power of the state.  Europe consolidated from roughly 500 polities to 25 between 1500 and WWI.
 
 With industrialization, the invention and manufacture of rapid-firing machine guns and automatic cannon allowed centralizing states to consolidate power even more.  The Ludlow Massacre (Colorado, April 20, 1914) shows that consolidation in action.
 
-Ludlow
+What events took place in Ludlow, Colorado in 1914?
 
 Eleven thousand mine workers had been on strike for seven months against John D. Rockefeller's Colorado Fuel and Iron Company, protesting low pay and dangerous conditions. The company evicted them from company housing, so they were living in a tent colony on leased union land.  The mine owners hired a private security contractor Baldwin–Felts, known for aggressive strike-breaking.  They built an improvised armored car mounted with an M1895 machine gun, which the union nicknamed the "Death Special," and used it to patrol the tent colony's perimeter, shining searchlights on the tents at night and firing bullets into them at random.  The mine owners then escalated to state force: on the morning of April 20, the Colorado National Guard, called in at Rockefeller's request, opened fire from a machine gun set up on a hill above the strikers' homes, then burned down the entire tent colony. At least 21 strikers were killed, including 12 children and 8 adults, most of them mothers trying to save their infants.  A tent camp of striking miners had no answer to a mounted machine gun.
 
 The state and corporations controlled the means of production of armor and iron stirrups, and then of powerful firearms such as cannon and machine guns.  This is what allowed them to dominate their populations who vastly outnumbered them.  However, periods of consolidated power based on these firearms sometimes give way to a cheap, robust, easily-copyable counter-technology that lets small, poorly-resourced actors compete with the entrenched powers-that-be.
 
-The Spread of Small Arms
+How did small arms develop over time?
 
 Small arms improved in effectiveness and availability.  Ludlow demonstrated the growing power of the state, but at the same time, small arms were becoming good enough and cheap enough to help close the gap between a rifleman and a government.  At first, poor men could not afford guns but by the second half of nineteenth century, they had become much more reliable and affordable.  The availability of small arms probably contributed to the end of slavery and extension of the franchise during the nineteenth century.
 
-The Control of Small Arms
+What did governments do to keep small arms out of the hands of commoners?
 
 The pervasiveness of small arms and the spread of communist ideas after World War I and the Russian Revolution prompted governments to take action.  An armed population that had just watched the overthrow of the Russian Tsar was not one that elites wanted to leave armed.  They did not want populations capable of resisting their will.  They confiscated firearms from the general population.
 
@@ -72,7 +72,7 @@ When they are first formulated, regulations are typically not presented as aimed
   
 In the twentieth century, the common man no longer had military equality that might enforce some degree of liberty for them.  Confiscation worked against individuals.
 
-Kalashnikov
+What were the effects of Kalashnikov’s AK-47?
 
 However, consolidated power based on control of access to firearms once again gave way to a cheap, robust, easily-copyable counter-technology that allowed small, poorly-resourced actors to compete with states.  Cheap offensive technology became available that allowed small entities outside established jurisdictions such as small weaker countries, minorities, militias, crime gangs to defend themselves and even go on the attack.  In the second half of the century, one weapon in particular enabled them.
 
@@ -88,13 +88,13 @@ When weapons were cheap, simple and widely accessible: the hunter’s spear, the
 
 The twentieth century’s small-arms confiscations tried to close that gap in the state’s favor but were only partly successful against organized groups.
 
-The Internet and Metadata
+How do elites use the internet to control people?
 
 Today, the same struggle has moved from physical weapons to control over communications infrastructure, where states and corporations have an overwhelming advantage with cheap, automated surveillance of metadata about the population rather than targeted interception.
 
 The internet allows elites to tighten their grip on the common man.  Traditionally, state surveillance meant intercepting the actual content of a phone call or letter, which required targeting a specific suspect. Internet communication generates enormous volumes of metadata: timestamps, IP addresses, who talked to whom, when, for how long, from where. This metadata is far easier to collect, aggregate, and analyze at scale than content ever was. Metadata is structured data, so it can be automatically searched and data-mined the way unstructured recorded conversation cannot; as one security researcher puts it bluntly, "metadata is surveillance" in its own right, not a lesser substitute for it.
 
-Mass Surveillance
+How is mass surveillance carried out?
 
 This is the mechanism that makes mass surveillance possible at all: it's the difference between "we can tap a suspect's phone with a warrant" and "we can algorithmically map the entire population's communication graph and only look closely at nodes that seem interesting."
 
@@ -102,7 +102,7 @@ Surveillance has moved from looking at individual content to looking at metadata
 
 The Snowden disclosures beginning in 2013 show the scale: NSA and GCHQ programs (PRISM, Upstream, Tempora) obtain data both by direct arrangements with major internet companies and by tapping fiber-optic cables carrying global internet traffic, and analysis tools like XKeyscore function as a search engine over this collected data.  An analyst can query a selector like an email address and reconstruct a target's full browsing sessions across platforms.
 
-Encryption
+ETo what extent does encryption help people?
 
 What keeps a person free from control in this age is not a weapon but the ability to not be tracked.  Encryption, anonymization, and simply living off the grid all cost money, skill, or effort that most people do not have.  Moreover, encryption may only be a partial answer to mass surveillance, a partial AK-47.  Encryption does stop states and corporation intercepting the content of messages.  However, it does nothing against traffic analysis and metadata collection.   It does not prevent endpoint compromise where messages can be read before or after encryption by malware, compromised backups or forensic tools.  It does nothing against legal compulsion where governments compel companies to hand over metadata and contact lists.  Neither does it stop governments from trying to mandate backdoors built into encrypted systems.
 

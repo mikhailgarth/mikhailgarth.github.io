@@ -6,7 +6,7 @@ description: "Why the Viking landing in Vinland failed when the European landing
 caseno: ""             # optional dossier-style file number, e.g. "07" — leave blank to hide
 weight: 900             # controls display order: lower numbers appear first. Space essays out (10, 20, 30...) so you can slot new ones in between later without renumbering everything.
 ---
-The Hopewell Earthworks
+Who built the Hopewell Earthworks?
 
 In Ohio, there are several sites with earth mounds built by Native Americans before contact with Europeans, some of them thousands of years old.  For example, in Chillicothe to the south of Columbus, Ohio, the Hopewell Ceremonial Earthworks are designated a UNESCO World Heritage Site.  They often sit next to suburban houses and roads, forming a strange backdrop for people living their modern, often consumer-oriented lives surrounded by technology, commuting to their work or schools.
 
@@ -14,7 +14,7 @@ They are a haunting reminder of the people who lived in America for thousands of
 
 You might wonder what these indigenous Americans would have thought if they could be teleported in place a few centuries from their time to the present.  And you might also wonder what they would have thought about explorers landing on their western shores from different places in Europe at times hundreds of years apart. 
 
-Norse Exploration
+What lands did the Norsemen (Vikings) explore?
 
 The first time they landed, they were Norsemen from Scandinavia and the year was around 1000 AD.
 
@@ -26,7 +26,7 @@ They had also pushed south and east via the river systems of Eastern Europe and 
 
 But they also moved west across the North Atlantic, following much the same route as a transatlantic passenger airliner.  They settled Iceland and, briefly, Greenland (discovered by Erik the Red after he was expelled from Iceland for committing murder) during its medieval warming period when it was possible to graze livestock and grow hay for the winter.
 
-The Norse and Vinland
+Why didn’t the Vinland colony last long?
 
 Exploration was a family business for Erik the Red since his son, Leif Erikson, established a settlement in Newfoundland.  He called it Vinland.  There is archaeological evidence at L’Anse aux Meadows in Newfoundland.  Newfoundland would have been a far more attractive place to live compared with Greenland or even Iceland because of the abundance of resources such as land, furs and timber.
 
@@ -36,7 +36,7 @@ Newfoundland was simply much further away from Scandinavia, and the Norse did no
 
 The Norse ventures were purely for private gain.  Word of the Norse discoveries did not spread far or quickly.  Erik the Red tried a marketing ploy by naming the cold land he discovered to the west of Iceland as ‘Greenland’ even though there was not much greenery there.  The Norse had no printing press to publicize their discoveries and encourage more to cross the ocean.  Their voyages took place in the time of a purely oral and manuscript culture, and knowledge of Vinland only survived in sagas passed down orally for centuries before being written down on parchment.  The sagas were not committed to parchment until the 13th century, 200 years after the events and only in Iceland, which was removed from Scandinavia, and they were their own genre.  Sagas are family memorials, not publicity or investment prospectuses.
 
-Columbus and European Exploration
+How did Columbus and Europeans mobilize support for their expeditions?
 
 In contrast, Columbus’s letter describing his discoveries was quickly printed and circulated across Europe in multiple languages within months and functioned brilliantly as an investment prospectus.  This helped recruit patronage and investment in further voyages.  A leader who reports a discovery as a narrative loses out to one who presents the discovery as a concrete, itemized, replicable opportunity.  Framing a win to stakeholders is part of the strategy of becoming rich and powerful.
 
@@ -45,11 +45,11 @@ Columbus sailed under contract with the Spanish crown (the Capitulations of Sant
 
 One hundred years later, England, France and the Netherlands started to compete with Spain and Portugal in the race to colonize.  They followed the Spanish and Portuguese examples and well understood the power of publicity.   Richard Hakluyt, the Elder and Younger, produced extensive printed promotional works such as the ‘Discourse Concerning Western Planting’ in 1584 and the ‘Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation’.  These encouraged investments in colonization and the recruitment of settlers who reinforced the large numbers already crossing the Atlantic to the New World.
 
-The Role of Ideology
+What role did ideology play in the explorations and colonization of North America?
 
 At the time of the Norse exploration, Scandinavia was still in a pre-Christian period.  Their mission was economic and territorial only.  There was no religious mission or ideology.  The Iberian explorations followed the Reconquista, the Christian reconquest of the Iberian peninsula from the Muslims in 1492, and many felt a crusading or missionary motivation when embarking on them.   The Papal bulls that divided the New World between Spain and Portugal justified the explorations by promoting the spread of Christianity through conquest and forced conversion.  England and the Netherlands joined in later.
 
-The Role of Disease
+What role did disease play in the colonization of North America?
 
 But of all these differences, this final one is the most powerful.  The decisive difference between the outcome of the circa 1000 AD and the circa 1500 AD explorations was the fate of the Native Americans encountered by the explorers.
 
@@ -61,7 +61,7 @@ Disease probably accounted for the vast majority of Native American deaths.  Nat
 
 Crowd diseases like smallpox, measles and influenza need what epidemiologists call a minimum critical community size to become endemic, generally estimated at 250,000 to 500,000 people for measles, for example.  Populations in Europe in the fifteenth to the eighteenth centuries had this critical mass.  Waves of colonizers from these populations came across the Atlantic carrying these diseases.
 
-Why the Europeans Succeeded
+What facilitated the success of the Europeans in the colonization of North America?
 
 Not every factor is equally decisive, and if we look at all those listed:  navigation, sponsorship, ideology, communication, the first four help explain why Vinland did not flourish.  The Norse had no repeatable mechanisms to return, reinforce and scale.  Leaders and entrepreneurs often chase being first but this history demonstrates that being positioned to follow through is what really matters and this is what Columbus and those who followed had.  However, the really decisive factor that tipped the balance for the Europeans was disease and the Native Americans’ lack of resistance.
 
@@ -69,7 +69,7 @@ The Native Americans of the Columbian time did resist the Europeans and had some
 
 However, Native American opposition to European expansion failed over the long term because their numbers were so depleted and their societies weakened by disease.  Despite successes in battle, they were gradually pushed back westwards into reservations and less desirable land as their former homes were taken over.   Eventually, the sheer momentum and volume of settlers arriving and moving westwards overwhelmed them. 
 
-Resistance to Colonialism
+Would the resistance of the Native Americans have been more successful without the ravages of disease?
 
 We can speculate about how it would have been if they had had some immunity from the European pathogens, if they had not been so cut off from the Old World for so long.  Perhaps they could have resisted the European arrivals in the same way that countries like Japan, Ethiopia, Nepal and Afghanistan resisted the European powers.
 
@@ -81,7 +81,7 @@ Even though Nepal was militarily defeated by the British, it still managed to re
 
 Maybe the Native Americans could have united enough and made enough arms deals with rival European powers to be able to hold back the settlers, but disease ensured that this could never happen.  If it had happened, they might still be living next to their ancient mounds with a culture and life that reflected their ancient origins, but possibly incorporating aspects of Western civilization, not unlike the Japanese.  As it is, only the mounds and remnants of their population, culture and history survive.
 
-The Role of Luck
+What role did luck play in the success of the European colonization?
 
 Disease, an unintended, unplanned biological accident, determined the outcome of the war between the two peoples more than courage, ambition or even institutional readiness. We need to resist survivorship bias by remembering that not every success can be explained by the winner’s strategy and not every failure is explained by the loser’s mistakes.
 
