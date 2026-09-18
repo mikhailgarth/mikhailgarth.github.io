@@ -14,14 +14,16 @@ Values help you confront hardship and death by guiding you through life in a way
 
 Suffering is where a person’s actual values become separated from their stated or assumed ones.  Suffering may be a test of values, or it may be the origin of values.  It may affirm existing or forge new ones. 
 
-Whether that is through divine agency or through personal formulation, an accidental, undesigned part of life that is nothing to do with God, is a matter for debate.  Some people may not even try to attribute their values to any source at all, as we will see in the case of the Arrow.  
+Whether that is through divine agency or through personal formulation, an accidental, undesigned part of life that is nothing to do with God, is a matter for debate.  Some people may not even try to attribute their values to any source at all, as we will see in the case of the Arrow.
+
 Who are the three protagonists who have views about values and suffering?
 
 Marcus Aurelius was a Roman Emperor from 161 to 180 AD — nearly two decades.  He had to deal with plague and constant war on the Danube frontier fighting Germanic tribes.  His Meditations are a series of exhortations to himself to be the best leader and the best man he could be. He never meant them to be seen by others or published.  Meditations is a private journal never intended for publication — unpolished, repetitive, written by a man literally trying to talk himself into being good while running an empire and living in a military camp. There is no audience to entertain.
 
 Mark Manson is a star blogger living in New York who has over two million readers.  Subtle Art is a commercial trade book, written for mass appeal, with jokes, profanity, and a deliberately anti-self-help marketing hook.  Manson markets his ideas in a way that Marcus Aurelius never had to.
 
-Oliver Queen is the superhero of the Arrow drama series based on the DC Comics character.  He is the spoilt son of a billionaire who becomes superhero Arrow after five years away from home.  On his return, he and his team wreak revenge on the wealthy criminal class who ruin his home Starling City.   His story is a modern fairy-tale based on echoes of the super hero all the way from Odysseus.  Like them, he goes through an ordeal, he slays monsters in the form of crime lords in Starling City and undergoes a real test in his homecoming.  
+Oliver Queen is the superhero of the Arrow drama series based on the DC Comics character.  He is the spoilt son of a billionaire who becomes superhero Arrow after five years away from home.  On his return, he and his team wreak revenge on the wealthy criminal class who ruin his home Starling City.   His story is a modern fairy-tale based on echoes of the super hero all the way from Odysseus.  Like them, he goes through an ordeal, he slays monsters in the form of crime lords in Starling City and undergoes a real test in his homecoming.
+  
 Odysseus returns after twenty years to find his household occupied by men consuming his wealth and courting his wife in his absence, Odyssey, Books 21-22.  In the same way, Oliver returns from Lian Yu with a list of corrupt men provided by his dead father who have also violated his home, Starling City.  Like Odysseus, he reclaims his home through the use of bow and arrows.
 
 What does Marcus Aurelius say about hardship?
