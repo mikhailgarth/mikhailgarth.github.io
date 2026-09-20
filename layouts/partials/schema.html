@@ -1,0 +1,67 @@
+{{- /*
+  layouts/partials/schema.html
+  Emits one JSON-LD @graph per page: Person + WebSite everywhere,
+  plus an Article node on essay pages (pages that live in a section).
+  Call it once inside <head>:  {{ partial "schema.html" . }}
+  Written for a recent Hugo release (0.120+).
+*/ -}}
+
+{{- $site := .Site -}}
+{{- $home := $site.Home.Permalink -}}
+{{- $author := $site.Params.schemaAuthor | default dict -}}
+{{- $name := $author.name | default "Mikhail Garth" -}}
+{{- $personID := printf "%s#person" $home -}}
+{{- $websiteID := printf "%s#website" $home -}}
+
+{{- /* ---------- Person ---------- */ -}}
+{{- $person := dict
+    "@type" "Person"
+    "@id" $personID
+    "name" $name
+    "url" $home
+-}}
+{{- with $author.description }}{{ $person = merge $person (dict "description" .) }}{{ end -}}
+{{- with $author.sameAs }}{{ $person = merge $person (dict "sameAs" .) }}{{ end -}}
+
+{{- /* ---------- WebSite ---------- */ -}}
+{{- $website := dict
+    "@type" "WebSite"
+    "@id" $websiteID
+    "url" $home
+    "name" $site.Title
+    "inLanguage" ($site.LanguageCode | default "en-US")
+    "publisher" (dict "@id" $personID)
+-}}
+{{- with $site.Params.description }}{{ $website = merge $website (dict "description" .) }}{{ end -}}
+
+{{- $graph := slice $person $website -}}
+
+{{- /* ---------- Article (essay pages only) ---------- */ -}}
+{{- /* Root pages such as About have an empty .Section, so they are skipped.
+       Add "skipSchema: true" to any page's front matter to opt out too. */ -}}
+{{- if and .IsPage (ne .Section "") (not .Params.skipSchema) }}
+  {{- $desc := .Description | default (.Summary | plainify | truncate 200) -}}
+  {{- $article := dict
+      "@type" "Article"
+      "@id" (printf "%s#article" .Permalink)
+      "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+      "url" .Permalink
+      "headline" (.Title | plainify | truncate 110)
+      "description" $desc
+      "datePublished" (.PublishDate.Format "2006-01-02T15:04:05Z07:00")
+      "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+      "wordCount" .WordCount
+      "inLanguage" ($site.LanguageCode | default "en-US")
+      "author" (dict "@type" "Person" "@id" $personID "name" $name "url" $home)
+      "publisher" (dict "@id" $personID)
+      "isPartOf" (dict "@id" $websiteID)
+  -}}
+  {{- with .Params.tags }}{{ $article = merge $article (dict "keywords" (delimit . ", ")) }}{{ end -}}
+  {{- with .Params.categories }}{{ $article = merge $article (dict "articleSection" (index . 0)) }}{{ end -}}
+  {{- with .Params.image }}{{ $article = merge $article (dict "image" (. | absURL)) }}{{ end -}}
+  {{- $graph = $graph | append $article -}}
+{{- end }}
+
+<script type="application/ld+json">
+{{- dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeHTML -}}
+</script>

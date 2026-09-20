@@ -20,7 +20,7 @@ HUMINT is human Intelligence; agents, informants, defectors, diplomats.  The pro
 
 SIGINT is signals Intelligence from intercepting communications; deciphering of encrypted messages such as Caesar’s or Enigma messages in the Second World War and steganography – the discovery of hidden messages.
 
-OSINT is open source intelligence from publicly available sources; Elizabethan agents reading foreign pamphlets and newsletters.
+OSINT is open source intelligence from publicly available sources; Elizabethan agents reading foreign pamphlets and newsletters.  Today, it could be X or quality newspapers provided you cross-check the sources and information.
 
 GEOINT and IMINT, geospatial intelligence and imagery intelligence, relate to terrain, infrastructure and movement.  Nowadays, satellites and drones can do much the same work as scouts used to do but miss HUMINT such as enemy intentions, politics and morale.  Images such as photographs and drone feeds are tools of reconnaissance.
 

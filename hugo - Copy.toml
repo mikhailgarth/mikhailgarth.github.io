@@ -1,0 +1,16 @@
+baseURL = "https://mikhailgarth.com/"
+languageCode = "en-us"
+title = "Mikhail Garth"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  tagline = "Intelligence, statecraft, and warfare: the pursuit and execution of power"
+  description = "Essays on intelligence history, coercive power, and the technologies that reshape political order — from Walsingham to the Cold War to the surveillance state."
+  kofiURL = "https://ko-fi.com/mikhailgarth"
+  contactEmail = "contact.mikhailgarth@gmail.com"
+  author = "Mikhail Garth"
+
+[markup.goldmark.renderer]
+  unsafe = true
