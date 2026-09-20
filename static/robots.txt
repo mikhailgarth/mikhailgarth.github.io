@@ -1,0 +1,47 @@
+# robots.txt for mikhailgarth.com
+# Everything is allowed by default; the entries below just make the intent explicit.
+
+User-agent: *
+Allow: /
+
+# Traditional search engines (AI search tools draw heavily on these indexes)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# AI search and answer engines (these fetch pages to cite them in answers)
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# AI training crawlers (collect text to train models; not needed for search citations)
+# To opt out of training, change "Allow: /" to "Disallow: /" for these four.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://mikhailgarth.com/sitemap.xml
