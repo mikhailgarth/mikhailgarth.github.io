@@ -18,8 +18,7 @@ enableGitInfo = true   # must sit near the top, before any [tables]
   name = "Mikhail Garth"
   description = "Writer on intelligence tradecraft, coercive power, and statecraft."
   sameAs = [
-    "https://www.linkedin.com/in/michaelkbailey",
-    "https://x.com/@OTBasics",
+    "https://x.com/OTBasics",
     
   ]
 
