@@ -24,3 +24,8 @@ enableGitInfo = true   # must sit near the top, before any [tables]
 
 [markup.goldmark.renderer]
   unsafe = true
+
+  [[menus.main]]
+  name = "Essays"
+  pageRef = "/essays"
+  weight = 10

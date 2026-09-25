@@ -1,0 +1,190 @@
+/* Essays hub. Everything is scoped under .hub so it can't affect other pages.
+   The --hub-* tokens fall back to sensible values; point them at your
+   existing site variables (e.g. var(--stamp-red)) to match your palette. */
+
+.hub {
+  --hub-ink: var(--ink, #1E242B);
+  --hub-muted: var(--ink-soft, #4B5563);
+  --hub-paper: var(--paper-2, #D6DEE5);
+  --hub-rule: var(--line, #B7C2CB);
+  --hub-stamp: var(--stamp, #8B3A2B);
+  --hub-display: var(--font-display, "Fraunces", Georgia, serif);
+  --hub-body: var(--font-body, "Source Serif 4", Georgia, serif);
+  --hub-type: var(--font-mono, "Special Elite", "Courier New", monospace);
+
+  padding: 2rem 0 3rem;
+  color: var(--hub-ink);
+  font-family: var(--hub-body);
+  font-size: 1.0625rem;
+  line-height: 1.65;
+}
+
+.hub a:focus-visible {
+  outline: 2px solid var(--hub-stamp);
+  outline-offset: 3px;
+}
+
+/* Header */
+.hub-classification {
+  display: inline-block;
+  margin: 0 0 1.5rem;
+  padding: 0.15rem 0.65rem;
+  border: 2px solid currentColor;
+  color: var(--hub-stamp);
+  font-family: var(--hub-type);
+  font-size: 0.9rem;
+  letter-spacing: 0.06em;
+  transform: rotate(-2deg);
+}
+.hub-title {
+  margin: 0 0 0.5rem;
+  font-family: var(--hub-display);
+  font-size: clamp(2.2rem, 6vw, 3.4rem);
+  font-weight: 600;
+  line-height: 1.05;
+}
+.hub-subtitle {
+  margin: 0 0 1.5rem;
+  color: var(--hub-muted);
+  font-style: italic;
+  font-size: 1.2rem;
+}
+.hub-intro p { margin: 0 0 1rem; }
+
+/* Contents */
+.hub-contents {
+  margin: 2.5rem 0 3.5rem;
+  padding: 1.25rem 0 1rem;
+  border-top: 1px solid var(--hub-rule);
+  border-bottom: 1px solid var(--hub-rule);
+}
+.hub-section-heading {
+  margin: 0 0 0.75rem;
+  font-family: var(--hub-display);
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+.hub-toc { list-style: none; margin: 0; padding: 0; }
+.hub-toc a {
+  border-bottom: none;
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding: 0.35rem 0;
+  color: inherit;
+  text-decoration: none;
+}
+.hub-toc-num {
+  flex: none;
+  min-width: 2ch;
+  color: var(--hub-stamp);
+  font-family: var(--hub-type);
+}
+.hub-toc-title { flex: 0 1 auto; }
+.hub-toc-leader {
+  flex: 1 1 1.5rem;
+  min-width: 1.5rem;
+  border-bottom: 1px dotted var(--hub-rule);
+  transform: translateY(-0.3em);
+}
+.hub-toc-time {
+  flex: none;
+  color: var(--hub-muted);
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+}
+.hub-toc a:hover .hub-toc-title {
+  text-decoration: underline;
+  text-decoration-color: var(--hub-stamp);
+  text-underline-offset: 0.2em;
+}
+
+/* Essay files: each summary sits in a manila folder with a tab */
+.hub-files { display: grid; gap: 3rem; }
+.hub-file {
+  position: relative;
+  margin-top: 1.4rem;
+  padding: 1.75rem 1.75rem 1.5rem;
+  background: var(--hub-paper);
+  border: 1px solid var(--hub-rule);
+  box-shadow: 3px 4px 0 rgba(60, 45, 20, 0.12);
+  scroll-margin-top: 2.5rem;
+}
+.hub-file::before {
+  content: "";
+  position: absolute;
+  top: -1.4rem;
+  left: -1px;
+  width: 8.5rem;
+  height: 1.4rem;
+  background: var(--hub-paper);
+  border: 1px solid var(--hub-rule);
+  border-bottom: none;
+  border-radius: 6px 6px 0 0;
+}
+.hub-file-num {
+  position: absolute;
+  top: -1.2rem;
+  left: 1rem;
+  font-family: var(--hub-type);
+  font-size: 0.9rem;
+}
+.hub-file:target { outline: 2px solid var(--hub-stamp); outline-offset: 4px; }
+
+.hub-file-head { display: flex; justify-content: flex-end; margin-bottom: 0.5rem; }
+.hub-stamp {
+  padding: 0.1rem 0.5rem;
+  border: 2px solid currentColor;
+  color: var(--hub-stamp);
+  font-family: var(--hub-type);
+  font-size: 0.85rem;
+  opacity: 0.85;
+  transform: rotate(3deg);
+}
+
+.hub-file-title {
+  margin: 0 0 0.35rem;
+  font-family: var(--hub-display);
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+.hub-file-title a { color: inherit; text-decoration: none; border-bottom: none; }
+.hub-file-title a:hover { text-decoration: underline; text-underline-offset: 0.15em; }
+
+.hub-file-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.25rem;
+  margin: 0 0 1rem;
+  color: var(--hub-muted);
+  font-size: 0.9rem;
+}
+.hub-blurb p { margin: 0 0 0.9rem; }
+.hub-read {
+  border-bottom: none;
+  text-decoration: underline;
+  font-weight: 600;
+  color: var(--hub-stamp);
+  text-underline-offset: 0.2em;
+}
+
+.hub-empty { color: var(--hub-muted); font-style: italic; }
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html:has(.hub) { scroll-behavior: smooth; }
+}
+
+@media (max-width: 34rem) {
+  .hub { padding-top: 1.5rem; }
+  .hub-file { padding: 1.5rem 1.15rem 1.25rem; }
+  .hub-file-title { font-size: 1.4rem; }
+}

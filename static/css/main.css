@@ -281,3 +281,38 @@ main.wrap {
   .dossier-row h2 { font-size: 20px; }
   .dossier-list-head { flex-direction: column; align-items: flex-start; gap: 8px; }
 }
+
+/* ---- Masthead (site name + Ko-fi, inside the main panel) ------------- */
+main.wrap { margin-top: 40px; }
+
+.masthead {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 0 18px;
+  border-bottom: 1px solid var(--line);
+  text-align: center;
+}
+.masthead .site-title { display: inline-block; }
+
+.masthead-kofi {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-mono);
+  font-size: 15px;
+  letter-spacing: 0.03em;
+  color: var(--stamp);
+  border-bottom: none;
+}
+.masthead-kofi span { border-bottom: 1px solid var(--stamp); }
+.masthead-kofi:hover span { border-bottom-width: 2px; }
+.masthead-kofi img { display: block; width: 64px; height: 64px; }
+
+@media (max-width: 600px) {
+  main.wrap { margin-top: 16px; }
+  .masthead .site-title { font-size: 28px; }
+  .masthead-kofi img { width: 48px; height: 48px; }
+}
+

@@ -28,18 +28,16 @@
 </head>
 <body>
 
-  <header class="site-header">
-    <div class="wrap">
-      <a class="site-title" href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
-      <p class="site-tagline">{{ .Site.Params.tagline }}</p>
-      <nav class="site-nav" style="text-align: center;">
-        <div style="margin-bottom: 14px;"><a href="{{ "/essays/" | relURL }}">Essays and Posts</a></div>
-        <div>{{ if .Site.Params.kofiURL }}<a href="{{ .Site.Params.kofiURL }}" class="kofi-link" style="border-bottom: none; display: inline-flex; align-items: center;"><img src="{{ "images/tip-jar-icon-stamp.svg" | relURL }}" alt="" width="120" height="120" style="vertical-align: middle; margin-right: 4px;"><span style="border-bottom: 1px solid var(--stamp);">Support on Ko-fi →</span></a>{{ end }}</div>
-      </nav>
-    </div>
-  </header>
-
   <main class="wrap">
+    <div class="masthead">
+      <a class="site-title" href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
+      {{ if .Site.Params.kofiURL }}
+      <a href="{{ .Site.Params.kofiURL }}" class="kofi-link masthead-kofi">
+        <img src="{{ "images/tip-jar-icon-stamp.svg" | relURL }}" alt="" width="64" height="64">
+        <span>Support on Ko-fi</span>
+      </a>
+      {{ end }}
+    </div>
     {{ block "main" . }}{{ end }}
   </main>
 

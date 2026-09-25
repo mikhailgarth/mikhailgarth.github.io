@@ -1,0 +1,62 @@
+{{/*
+  Essays hub markup. Context must be the essays section page.
+  Used by layouts/essays/list.html (/essays/) and the home page template.
+*/}}
+{{ with resources.Get "css/hub.css" }}
+  {{ $css := . | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+{{ end }}
+
+{{ $essays := .Pages.ByWeight }}
+
+<article class="hub">
+  <header class="hub-header">
+    {{ with .Params.classification }}<p class="hub-classification">{{ . }}</p>{{ end }}
+    <h1 class="hub-title">{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="hub-subtitle">{{ . }}</p>{{ end }}
+    {{ with .Content }}<div class="hub-intro">{{ . }}</div>{{ end }}
+  </header>
+
+  {{ if $essays }}
+  <nav class="hub-contents" aria-labelledby="hub-contents-heading">
+    <h2 id="hub-contents-heading" class="hub-section-heading">Contents</h2>
+    <ol class="hub-toc">
+      {{ range $i, $p := $essays }}
+      <li>
+        <a href="#file-{{ anchorize $p.Title }}">
+          <span class="hub-toc-num">{{ printf "%02d" (add $i 1) }}</span>
+          <span class="hub-toc-title">{{ $p.Title }}</span>
+          <span class="hub-toc-leader" aria-hidden="true"></span>
+          <span class="hub-toc-time">{{ $p.ReadingTime }} min</span>
+        </a>
+      </li>
+      {{ end }}
+    </ol>
+  </nav>
+
+  <section class="hub-files" aria-label="Essays">
+    {{ range $i, $p := $essays }}
+    {{ $id := printf "file-%s" (anchorize $p.Title) }}
+    <article class="hub-file" id="{{ $id }}" aria-labelledby="{{ $id }}-title">
+      <span class="hub-file-num">File {{ printf "%02d" (add $i 1) }}</span>
+      {{ with $p.Params.theme }}<div class="hub-file-head"><span class="hub-stamp">{{ . }}</span></div>{{ end }}
+      <h2 class="hub-file-title" id="{{ $id }}-title"><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h2>
+      <p class="hub-file-meta">
+        {{ if not $p.Date.IsZero }}<time datetime="{{ $p.Date.Format "2006-01-02" }}">{{ $p.Date.Format "2 January 2006" }}</time>{{ end }}
+        <span>{{ $p.ReadingTime }} min read</span>
+      </p>
+      <div class="hub-blurb">
+        {{ with $p.Params.hub_summary }}
+          {{ $p.RenderString (dict "display" "block") . }}
+        {{ else }}
+          {{ with $p.Description }}<p>{{ . }}</p>{{ else }}<p>{{ $p.Summary | plainify | truncate 320 }}</p>{{ end }}
+        {{ end }}
+      </div>
+      <a class="hub-read" href="{{ $p.RelPermalink }}">Read the essay<span class="visually-hidden">: {{ $p.Title }}</span></a>
+    </article>
+    {{ end }}
+  </section>
+  {{ else }}
+  <p class="hub-empty">No essays published yet. Add a Markdown file to <code>content/essays/</code> and it will appear here.</p>
+  {{ end }}
+</article>
