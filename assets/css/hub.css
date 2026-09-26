@@ -188,3 +188,8 @@
   .hub-file { padding: 1.5rem 1.15rem 1.25rem; }
   .hub-file-title { font-size: 1.4rem; }
 }
+
+.hub-title,
+.hub-subtitle {
+  text-align: center;
+}

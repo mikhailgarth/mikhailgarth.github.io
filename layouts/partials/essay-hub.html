@@ -38,7 +38,7 @@
     {{ range $i, $p := $essays }}
     {{ $id := printf "file-%s" (anchorize $p.Title) }}
     <article class="hub-file" id="{{ $id }}" aria-labelledby="{{ $id }}-title">
-      <span class="hub-file-num">File {{ printf "%02d" (add $i 1) }}</span>
+      <span class="hub-file-num">Essay {{ printf "%02d" (add $i 1) }}</span>
       {{ with $p.Params.theme }}<div class="hub-file-head"><span class="hub-stamp">{{ . }}</span></div>{{ end }}
       <h2 class="hub-file-title" id="{{ $id }}-title"><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h2>
       <p class="hub-file-meta">
