@@ -1,5 +1,5 @@
 ---
-title: "A Long View"
+title: "The Long View"
 subtitle: "Essays on motivation, intelligence, statecraft and the pursuit of power"
 description: "Long-form essays on human motivation, intelligence history, cryptography, regime change and statecraft, from the ancient world to the Cold War and beyond."
 ---
@@ -7,4 +7,4 @@ These essays are musings on how people and events from long ago shaped the world
 
 It gives us meaning if we can see ourselves as part of a larger picture.  
 
-And if we realize that men and women have always wanted and feared the same things and had the same desires and motives as we do now then we can draw something to live by.
+And if we realize that men and women have always wanted and feared the same things and had the same desires and motives as we do now then we can learn from them and take comfort in knowing that we are not the first.
