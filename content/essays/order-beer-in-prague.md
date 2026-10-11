@@ -6,7 +6,7 @@ description: "The evolution of English from Caedmon to William the Conqueror, Ch
 caseno: ""             # optional dossier-style file number, e.g. "07" — leave blank to hide
 weight: 970             # controls display order: lower numbers appear first. Space essays out (10, 20, 30...) so you can slot new ones in between later without renumbering everything.
 ---
-What is the role of the English language in world affairs?
+## What is the role of the English language in world affairs?
 
 A language once stamped out of official use by French-speaking conquerors has become the closest thing humanity has ever had to a universal tongue — not through any inherent superiority, but through an extraordinary chain of historical accidents, military conquests, economic dominance, and cultural export.
 
@@ -16,13 +16,13 @@ The Vltava river runs through Prague and alongside the river there is a promenad
 
 I was sitting outside one of these bars with my son, and next to us there was a large party of young German men.  What struck me when the Czech waitress came to take their orders was that they had to speak to her in English.  Germany is the huge neighbor to the north of the Czech Republic and, under the Hapsburgs, Prague used to be a predominantly German-speaking city.  I might expect that German would be the second language but a series of momentous historical accidents over hundreds of years dictated that it would not be.
 
-What is the origin of English?
+## What is the origin of English?
 
 Contrast the dominance of English with its ancient obscure origins and how it was a junior partner to Latin in the Middle Ages.  Caedmon was a 7th-century illiterate herdsman at Whitby Abbey in northern England who, according to the monk Bede, received the miraculous gift of poetry through a divine dream.  This was Caedmon's Hymn, a nine-line Old English poem praising God as Creator — the oldest known named poem in the English language.
 
 One manuscript embeds the Old English poem directly into the main Latin text of Bede's Ecclesiastical History.  Even then, English poetry was valued enough to coexist with Latin, the major written language.
 
-What happened to English after the Norman invasion in 1066?
+## What happened to English after the Norman invasion in 1066?
 
 Old English survived the invasions of the Vikings but then it was subjugated by Norman French when William the Conqueror imposed a new ruling class on the Anglo-Saxon population of England.
 
@@ -31,7 +31,7 @@ Grammar simplified so that Old English lost its declensions and conjugations whi
 
 Examples of multi-faceted vocabulary are the names of animals and their meat such as cow and beef or pig and pork.  The Saxon farmer tended the cow or pig and his Norman lord sat down to eat beef or pork in his manor.   Then there are synonyms such as begin and commence, ask and inquire, or holy and sacred.  Begin, ask and holy are humble as befits the Saxon under class, while commence, inquire and sacred are more fitting for the powerful and educated Norman upper class.
 
-Which part of England does modern English come from?
+## Which part of England does modern English come from?
 
 English gradually re-emerged over the centuries. Modern Standard English descends primarily from the East Midlands dialect of Middle English, specifically the variety spoken in and around London, Oxford, and Cambridge in the 14th and 15th centuries.
 
@@ -39,7 +39,7 @@ The East Midlands triangle — London, Oxford, Cambridge — was the economic an
 
 Chaucer wrote the Canterbury Tales in the 1380s in English using the London dialect. This helped establish English as more than a peasants’ tongue. Caxton's printing press (1476) helped standardize spelling and grammar across England.  Shakespeare’s works and the King James Bible elevated its prestige and sophistication.  The intellectual and physical investment in its early days set the standard for English for centuries to come.
 
-How did English become a world language?
+## How did English become a world language?
 
 This extraordinary hybrid then became a world language through the expansion of the British Empire from the 1600s to the 1900s and the rise of America.
 
@@ -57,7 +57,7 @@ And the hundreds of languages spoken by the indigenous Native Americans died out
 
 In the centuries that followed, Britain and the legacy of its empire spread English through soft power.  It has become the language of Hollywood, the BBC, rock and pop music, and television and advertising.
 
-How did modern technology become the catalyst for increased adoption of English?
+## How did modern technology become the catalyst for increased adoption of English?
 
 The final step has been the use of English in technology, science, business and aviation through the internet.  When companies cooperate internationally, English is usually the medium of communication.   Some argue that English is a good common language for this purpose because it has no grammatical gender, simple verb conjugation and tolerance for absorbing loan words.  But it is picked because it is usually the only neutral option everyone already knows at least to some extent.  It is picked for reasons of history and power, not linguistic design.
 
@@ -69,7 +69,7 @@ Today the entire global aviation industry — air traffic control, pilot communi
 
 In semiconductor manufacturing, multinational engineering teams routinely include Japanese, Korean, Dutch, American, Taiwanese, and German specialists on the same project. When ASML (Dutch) supplies equipment to Samsung (Korean) and they need to jointly debug a lithography process, the engineers on both sides communicate in English — often haltingly, on both sides — because there is simply no alternative. 
 
-How is English used in different countries?
+## How is English used in different countries?
 
 English today belongs to no one nation. There are more non-native English speakers than native ones (estimates suggest roughly 1.5 billion speakers, with natives being a minority). Indian English, Nigerian English, Singaporean English, and dozens of other varieties have developed their own rules, idioms, and literature.
 
